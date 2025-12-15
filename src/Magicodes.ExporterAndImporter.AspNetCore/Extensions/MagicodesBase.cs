@@ -62,7 +62,7 @@ namespace Magicodes.ExporterAndImporter.Extensions
             }
             if (contentType != "")
             {
-                context.Response.Headers.Add("Content-Disposition", $"attachment;filename={filename}");
+                context.Response.Headers["Content-Disposition"] = $"attachment;filename={filename}";
                 context.Response.ContentType = contentType;
                 if (result != null)
                 {

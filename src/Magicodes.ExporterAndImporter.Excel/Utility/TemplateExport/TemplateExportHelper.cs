@@ -740,7 +740,7 @@ namespace Magicodes.ExporterAndImporter.Excel.Utility.TemplateExport
                                         excelImage.SetSize(width, height);
                                     }
                                 }
-                                catch (Exception ex)
+                                catch
                                 {
                                     cell.Value = alt;
                                 }
