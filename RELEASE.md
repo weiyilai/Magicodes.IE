@@ -1,5 +1,14 @@
 # Release Log
 
+## 2.8.1
+**2025.12.15**
+
+- 重构TemplateExportHelper，优化正则表达式使用和异常处理
+- 简化异常处理和响应头赋值逻辑
+- 修复同一行多表格导出时出现错误模板的问题（见PR [#605](https://github.com/dotnetcore/Magicodes.IE/pull/605)）
+- 修复Excel导出图片慢的问题（见PR [#602](https://github.com/dotnetcore/Magicodes.IE/pull/602)）
+- 文档修复拼写错误（见PR [#603](https://github.com/dotnetcore/Magicodes.IE/pull/603)）
+
 ## 2.7.6
 **2025.05.14**
 
