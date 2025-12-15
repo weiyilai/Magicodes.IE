@@ -13,7 +13,7 @@
 
 **地址（优先更新Gitee）：**[CodeSpirit（码灵）](https://gitee.com/magicodes/code-spirit)
 
-**简介：**CodeSpirit（码灵）是一款革命性的全栈低代码开发框架，通过智能代码生成引擎与AI深度协同，实现**后端驱动式全栈开发范式**。基于.NET 9技术栈构建，将具备企业级技术深度与云原生扩展能力，提供从界面生成、业务逻辑编排到系统运维的全生命周期支持。
+**简介：**CodeSpirit（码灵）是一款革命性的全栈低代码智能体开发框架，通过智能代码生成引擎与AI深度协同，实现**后端驱动式全栈开发范式**。基于.NET 10技术栈构建，将具备企业级技术深度与云原生扩展能力，提供从界面生成、业务逻辑编排到系统运维的全生命周期支持。
 
 **让全栈开发回归工程本质**
 
@@ -34,7 +34,7 @@
 7. [FAQ](https://github.com/dotnetcore/Magicodes.IE/issues?q=label%3Aquestion)
 8. [联系我们](#联系我们)
 9. [更新历史](./RELEASE.md)
-10. [友情赞助](#友情赞助)
+10. [贡献者](#贡献者)
 
 ## 概述
 
@@ -401,22 +401,27 @@ public DateTime Time3 { get; set; }
 <img align="left" src="./res/wechat.jpg" width="300"/>
 </td>
 <td>
-<img align="right" src="res/IE_WeChat.png" width="300"/>
+    <img align="right" src="./res/IE_WeChat.png" width="300"/>
 </td>
 </tr>
 </table>
 > ##### **文档官网&官方博客**
 
-- **文档官网：<https://docs.xin-lai.com/>**
-- **博客：<http://www.cnblogs.com/codelove/>**
+- **官方博客：** <http://www.cnblogs.com/codelove/>
+- **GitHub：** <https://github.com/dotnetcore/Magicodes.IE>
+- **Gitee（手动同步，不维护）：** <https://gitee.com/magicodes/Magicodes.IE>
+
+## **贡献者**
 
 ### Code Contributors
+
+本项目感谢所有贡献者的支持。[[贡献指南](CONTRIBUTING.md)]
 
 <a href="https://github.com/dotnetcore/Magicodes.IE/graphs/contributors"><img src="https://opencollective.com/magicodes/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/magicodes/contribute)]
+成为财务贡献者，帮助我们维持社区发展。[[贡献](https://opencollective.com/magicodes/contribute)]
 
 #### Individuals
 
@@ -424,7 +429,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 #### Organizations
 
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/magicodes/contribute)]
+用您的组织支持这个项目。您的徽标将显示在这里，并链接到您的网站。[[贡献](https://opencollective.com/magicodes/contribute)]
 
 <a href="https://opencollective.com/magicodes/organization/0/website"><img src="https://opencollective.com/magicodes/organization/0/avatar.svg"></a>
 <a href="https://opencollective.com/magicodes/organization/1/website"><img src="https://opencollective.com/magicodes/organization/1/avatar.svg"></a>
