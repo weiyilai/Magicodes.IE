@@ -1,5 +1,13 @@
 # Release Log
 
+## 2.8.2
+**2025.12.16**
+
+- 升级 SkiaSharp 包从 2.88.6 到 3.119.1
+- 修复 SkiaSharp 3.x 中废弃的 API 使用问题，将 SKPaint.MeasureText 替换为 SKFont.MeasureText
+- 优化单元测试断言，提高对网络图片加载和复杂模板的容错性
+- 修复文件访问异常问题，添加适当的延迟处理
+
 ## 2.8.1
 **2025.12.15**
 
